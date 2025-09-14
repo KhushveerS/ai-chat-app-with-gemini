@@ -321,4 +321,3 @@ For support and questions:
 
 ---
 
-Built with ❤️ using GetStream.io, Google Gemini, and modern web technologies.
