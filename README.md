@@ -1,4 +1,4 @@
-# Chat AI App
+# Conversational AI App
 
 A modern AI-powered chat application built with **Stream Chat**, **Google Gemini**, and **web search capabilities**. This full-stack application provides an intelligent writing assistant that can help with content creation, research, and real-time collaboration.
 
